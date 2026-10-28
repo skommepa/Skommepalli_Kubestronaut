@@ -1,6 +1,6 @@
 # Module 2: CKA (Certified Kubernetes Administrator)
 
-**Duration:** 6 weeks (10 Nov - 21 Dec) | **Previous:** [KCNA](../01-kcna/) | **Next:** [Module 3: CKAD](../03-ckad/)
+**Duration:** 8 weeks (weeks 4-11, months 1-3) | **Previous:** [KCNA](../01-kcna/) | **Next:** [Module 3: CKAD](../03-ckad/)
 
 ## Exam facts
 
@@ -23,16 +23,18 @@
 
 ## Plan
 
-Follow the weekly rhythm in [study-method.md](../../docs/study-method.md). A suggested split of the 6 weeks:
+Follow the weekly rhythm in [study-method.md](../../docs/study-method.md). A suggested split of the 8 weeks:
 
 | Week | Focus |
 |------|-------|
 | 1 | Cluster architecture, RBAC, kubeadm install and upgrade |
-| 2 | etcd backup/restore, certificates, Helm and Kustomize |
-| 3 | Workloads and scheduling: taints, affinity, resources, static pods |
-| 4 | Services, Ingress, Gateway API, NetworkPolicy, CoreDNS |
-| 5 | Storage, then troubleshooting (nodes, control plane, networking) |
-| 6 | Timed mocks, review every miss |
+| 2 | etcd backup/restore, certificates |
+| 3 | Helm, Kustomize, CRDs |
+| 4 | Workloads and scheduling: taints, affinity, resources, static pods |
+| 5 | Services, Ingress, Gateway API, NetworkPolicy, CoreDNS |
+| 6 | Storage |
+| 7 | Troubleshooting (nodes, control plane, networking) |
+| 8 | Timed mocks, review every miss |
 
 ## Files
 

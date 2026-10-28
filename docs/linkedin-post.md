@@ -4,7 +4,6 @@ Written to be posted **after the final exam on Thursday**. Fill in the `[bracket
 
 Placeholders to fill in:
 - `[LAST EXAM]`: the exam you take on Thursday (for example CKS)
-- `[TIME]`: how long the whole journey took (for example "about 6 months")
 - `[TIP]`: one honest lesson you learned
 
 ---
@@ -21,7 +20,9 @@ Somewhere along the way, AI tools showed up everywhere. There was an assistant f
 
 It wasn't a straight line. I changed my plan many times. Some weeks went well, some didn't. A mock exam would go badly and I'd rewrite the schedule, go back to the weak areas and try again. What kept me going was reminding myself why I started, and being kind to myself on the bad days.
 
-And now I'm here. [LAST EXAM] was the final one, and the set is complete after [TIME]. ☸️
+I also failed. CKAD and CKS both went wrong on my first attempt. Those were exactly the two exams where I had already given myself an extra month of preparation, and I still wasn't ready. I went back, found where I was losing time and points, practised that, and passed both on the second attempt. Those two are the reason a plan I first wrote for 6 months ended up taking about 10.
+
+And now I'm here. [LAST EXAM] was the final one, and the set is complete after about 10 months. ☸️
 
 Everything I used is in one open repo, laid out as a short course, one module per certification, in case it helps someone else on the same road:
 https://github.com/skommepa/Skommepalli_Kubestronaut
@@ -42,11 +43,11 @@ Which certification are you working on right now?
 
 Kubestronaut: done. ☸️
 
-I've now passed all five Kubernetes certifications: KCNA, KCSA, CKA, CKAD and CKS, with [LAST EXAM] as the final one. It took me [TIME].
+I've now passed all five Kubernetes certifications: KCNA, KCSA, CKA, CKAD and CKS, with [LAST EXAM] as the final one. It took me about 10 months, and I failed CKAD and CKS once each before passing them on the second attempt.
 
 I wrote down everything I used along the way and turned it into a free, open short course so the next person doesn't have to start from scratch:
 
-✅ A week-by-week study plan, ordered so CKA comes before CKS
+✅ A 10-month, week-by-week study plan (with retake time built in), ordered so CKA comes before CKS
 ✅ 300 practice questions and hands-on tasks (60 per exam)
 ✅ 10 mock exams
 ✅ Exam-day checklist and a progress tracker
@@ -71,15 +72,17 @@ Kubestronaut means holding all five CNCF Kubernetes certifications at once:
 • KCSA: Kubernetes and Cloud Native Security Associate
 • CKS: Certified Kubernetes Security Specialist
 
-[LAST EXAM] was the last one, and it closed out the set after [TIME].
+[LAST EXAM] was the last one, and it closed out the set after about 10 months.
 
 The hardest part was the planning. CKS needs an active CKA, and all five must be valid at the same time. So I planned the order around that:
 
 1️⃣ KCNA: warm up and build the vocabulary
 2️⃣ CKA: cluster admin, troubleshooting, networking, storage
-3️⃣ CKAD: speed with application YAML
+3️⃣ CKAD: speed with application YAML (after a 1-month gap of extra prep)
 4️⃣ KCSA: security concepts, fresh before CKS
-5️⃣ CKS: hardening, supply chain, runtime security
+5️⃣ CKS: hardening, supply chain, runtime security (after another 1-month gap)
+
+I'll be honest: it didn't go perfectly. I failed CKAD and CKS on the first attempt. Those were the two exams where I had spent the most time, and I passed both on the second try. A plan I first wrote for 6 months became about 10, and I'm fine with that.
 
 What worked for me:
 • KodeKloud courses and labs for the core learning

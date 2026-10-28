@@ -1,6 +1,6 @@
 # Module 1: KCNA (Kubernetes and Cloud Native Associate)
 
-**Duration:** 2 weeks (27 Oct - 9 Nov) | **Next:** [Module 2: CKA](../02-cka/)
+**Duration:** 3 weeks (weeks 1-3, month 1) | **Next:** [Module 2: CKA](../02-cka/)
 
 ## Exam facts
 
@@ -23,8 +23,8 @@
 
 ## Plan
 
-- **Week 1:** 45-60 min a day on one curriculum topic plus 15-20 practice questions. Finish with [Mock 1](mock-exams.md).
-- **Week 2:** Fix weak domains, then take Mock 2 and the full [60-question bank](practice-questions.md). Sit the exam when you score 45+ comfortably.
+- **Weeks 1-2:** 45-60 min a day on one curriculum topic plus 15-20 practice questions.
+- **Week 3:** Take [Mock 1](mock-exams.md), fix weak domains, then take Mock 2 and the full [60-question bank](practice-questions.md). Sit the exam when you score 45+ comfortably.
 
 ## Focus list
 

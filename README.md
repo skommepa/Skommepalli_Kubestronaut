@@ -1,6 +1,6 @@
 # Kubestronaut in 6 Months: A Short-Term Course
 
-A self-paced, hands-on course for earning all five Kubernetes certifications that make you a **Kubestronaut**: **KCNA, KCSA, CKA, CKAD and CKS**. It is built from my own journey and bundles a 6-month study plan, 300 practice questions and tasks, and 10 mock exams that you can reuse.
+A self-paced, hands-on course for earning all five Kubernetes certifications that make you a **Kubestronaut**: **KCNA, KCSA, CKA, CKAD and CKS**. It is built from my own journey and bundles a 10-month study plan, 300 practice questions and tasks, and 10 mock exams that you can reuse.
 
 > Unofficial community material. It is practice content, not real exam questions or "dumps". Always check prices, pass marks, domain weights and the exam version on the official [Linux Foundation / CNCF](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) pages and the [CNCF curriculum repo](https://github.com/cncf/curriculum) before you book.
 
@@ -8,7 +8,7 @@ A self-paced, hands-on course for earning all five Kubernetes certifications tha
 
 | | |
 |---|---|
-| 6-month plan | Week-by-week schedule, ordered so CKA comes before CKS |
+| 10-month plan | Week-by-week schedule, ordered so CKA comes before CKS, with 1-month gaps before CKAD and CKS and retake time built in |
 | 300 practice items | 60 per certification: 120 multiple-choice questions and 180 hands-on tasks with solutions |
 | 10 mock exams | Two per certification (diagnostic + dress rehearsal) |
 | Study method | Weekly rhythm, mock routine, exam-day checklist |
@@ -20,14 +20,13 @@ Follow the modules in this order. Each folder has its own README with exam facts
 
 | # | Module | Exam | Weeks | Practice bank | Mocks |
 |---|--------|------|-------|---------------|-------|
-| 1 | [KCNA](certifications/01-kcna/) Kubernetes and Cloud Native Associate | 60 MCQ, 90 min | 2 | [60 questions](certifications/01-kcna/practice-questions.md) | [2 mocks](certifications/01-kcna/mock-exams.md) |
-| 2 | [CKA](certifications/02-cka/) Certified Kubernetes Administrator | Hands-on, 2 h | 6 | [60 tasks](certifications/02-cka/practice-tasks.md) | [2 mocks](certifications/02-cka/mock-exams.md) |
-| 3 | [CKAD](certifications/03-ckad/) Certified Kubernetes Application Developer | Hands-on, 2 h | 5 | [60 tasks](certifications/03-ckad/practice-tasks.md) | [2 mocks](certifications/03-ckad/mock-exams.md) |
-| 4 | [KCSA](certifications/04-kcsa/) Kubernetes and Cloud Native Security Associate | 60 MCQ, 90 min | 2 | [60 questions](certifications/04-kcsa/practice-questions.md) | [2 mocks](certifications/04-kcsa/mock-exams.md) |
-| 5 | [CKS](certifications/05-cks/) Certified Kubernetes Security Specialist | Hands-on, 2 h | 8 | [60 tasks](certifications/05-cks/practice-tasks.md) | [2 mocks](certifications/05-cks/mock-exams.md) |
-| 6 | Buffer: retakes, gap review, claim Kubestronaut | | 3 | | |
+| 1 | [KCNA](certifications/01-kcna/) Kubernetes and Cloud Native Associate | 60 MCQ, 90 min | 3 | [60 questions](certifications/01-kcna/practice-questions.md) | [2 mocks](certifications/01-kcna/mock-exams.md) |
+| 2 | [CKA](certifications/02-cka/) Certified Kubernetes Administrator | Hands-on, 2 h | 8 | [60 tasks](certifications/02-cka/practice-tasks.md) | [2 mocks](certifications/02-cka/mock-exams.md) |
+| 3 | [CKAD](certifications/03-ckad/) Certified Kubernetes Application Developer | Hands-on, 2 h | 4 gap + 6 + 3 retake | [60 tasks](certifications/03-ckad/practice-tasks.md) | [2 mocks](certifications/03-ckad/mock-exams.md) |
+| 4 | [KCSA](certifications/04-kcsa/) Kubernetes and Cloud Native Security Associate | 60 MCQ, 90 min | 3 | [60 questions](certifications/04-kcsa/practice-questions.md) | [2 mocks](certifications/04-kcsa/mock-exams.md) |
+| 5 | [CKS](certifications/05-cks/) Certified Kubernetes Security Specialist | Hands-on, 2 h | 4 gap + 9 + 3 retake | [60 tasks](certifications/05-cks/practice-tasks.md) | [2 mocks](certifications/05-cks/mock-exams.md) |
 
-Total: about 26 weeks at 8-10 hours per week. See the full [study plan](docs/study-plan.md).
+Total: about 43 weeks (roughly 10 months) at 8-10 hours per week, including a 1-month gap before CKAD and before CKS and a retake window after each. CKAD and CKS both took me two attempts. See the full [study plan](docs/study-plan.md).
 
 ## Repository layout
 
@@ -41,7 +40,7 @@ Skommepalli_Kubestronaut/
 │   ├── 04-kcsa/                  README + practice-questions + mock-exams
 │   └── 05-cks/                   README + practice-tasks + mock-exams
 ├── docs/
-│   ├── study-plan.md             6-month schedule and program rules
+│   ├── study-plan.md             10-month schedule and program rules
 │   ├── study-method.md           weekly rhythm, mock routine, exam-day checklist
 │   ├── resources.md              courses, repos and official links
 │   └── linkedin-post.md          the story behind this repo, ready to post

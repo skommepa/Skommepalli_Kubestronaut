@@ -1,6 +1,6 @@
 # Module 4: KCSA (Kubernetes and Cloud Native Security Associate)
 
-**Duration:** 2 weeks (26 Jan - 8 Feb) | **Previous:** [CKAD](../03-ckad/) | **Next:** [Module 5: CKS](../05-cks/)
+**Duration:** 3 weeks (weeks 25-27, months 6-7) | **Previous:** [CKAD](../03-ckad/) | **Next:** [Module 5: CKS](../05-cks/)
 
 ## Exam facts
 
@@ -24,8 +24,8 @@
 
 ## Plan
 
-- **Week 1:** 45-60 min a day on one domain plus 15-20 practice questions. Finish with [Mock 1](mock-exams.md).
-- **Week 2:** Fix weak domains, then take Mock 2 and the full [60-question bank](practice-questions.md).
+- **Weeks 1-2:** 45-60 min a day on one domain plus 15-20 practice questions.
+- **Week 3:** Take [Mock 1](mock-exams.md), fix weak domains, then take Mock 2 and the full [60-question bank](practice-questions.md).
 
 This module doubles as the concept primer for CKS, so take notes on the tools (Trivy, Falco, Cosign, Kyverno, Gatekeeper).
 

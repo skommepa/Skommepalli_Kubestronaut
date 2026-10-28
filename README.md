@@ -70,4 +70,4 @@ Found a wrong answer, an outdated flag or a new Kubernetes version change? Open 
 
 ## Author
 
-Akshaj Kommepalli ([@skommepa](https://github.com/skommepa)).
+Seshadri Kommepalli ([@skommepa](https://github.com/skommepa)).

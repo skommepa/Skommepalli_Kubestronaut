@@ -1,4 +1,4 @@
-# Kubestronaut in 6 Months: A Short-Term Course
+# Kubestronaut in 10 Months: A Short-Term Course
 
 A self-paced, hands-on course for earning all five Kubernetes certifications that make you a **Kubestronaut**: **KCNA, KCSA, CKA, CKAD and CKS**. It is built from my own journey and bundles a 10-month study plan, 300 practice questions and tasks, and 10 mock exams that you can reuse.
 

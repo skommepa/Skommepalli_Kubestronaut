@@ -1,26 +1,31 @@
 # LinkedIn Post
 
-Two versions: a short one and a longer story version. Both describe the work as in progress. Update the wording once you have results.
+Written to be posted **after the final exam on Thursday**. Fill in the `[brackets]` first, and only post once the result is in. Two versions: short and long.
+
+Placeholders to fill in:
+- `[LAST EXAM]`: the exam you take on Thursday (for example CKS)
+- `[TIME]`: how long the whole journey took (for example "about 6 months")
+- `[TIP]`: one honest lesson you learned
 
 ---
 
 ## Short version
 
-Starting my road to Kubestronaut. ☸️
+Kubestronaut: done. ☸️
 
-That means five Kubernetes certifications held at the same time: KCNA, KCSA, CKA, CKAD and CKS.
+I've now passed all five Kubernetes certifications: KCNA, KCSA, CKA, CKAD and CKS, with [LAST EXAM] as the final one. It took me [TIME].
 
-I planned it as a 6-month sprint (27 Oct 2026 to Apr 2027) and put everything I'm using into one open repo so you can follow along or reuse it:
+I wrote down everything I used along the way and turned it into a free, open short course so the next person doesn't have to start from scratch:
 
 ✅ A week-by-week study plan, ordered so CKA comes before CKS
 ✅ 300 practice questions and hands-on tasks (60 per exam)
 ✅ 10 mock exams
 ✅ Exam-day checklist and a progress tracker
 
-Free to use, fork and improve:
+Fork it, use it, improve it:
 https://github.com/skommepa/Skommepalli_Kubestronaut
 
-If you're on the same path, tell me which exam you're tackling first. 👇
+Which certification are you working on right now? 👇
 
 #Kubernetes #Kubestronaut #CNCF #CKA #CKAD #CKS #KCNA #KCSA #CloudNative #DevOps #LearningInPublic
 
@@ -28,7 +33,7 @@ If you're on the same path, tell me which exam you're tackling first. 👇
 
 ## Long version
 
-I'm going for Kubestronaut, and I'm doing it in public. ☸️
+I'm officially a Kubestronaut. ☸️
 
 Kubestronaut means holding all five CNCF Kubernetes certifications at once:
 • KCNA: Kubernetes and Cloud Native Associate
@@ -37,26 +42,30 @@ Kubestronaut means holding all five CNCF Kubernetes certifications at once:
 • KCSA: Kubernetes and Cloud Native Security Associate
 • CKS: Certified Kubernetes Security Specialist
 
-The tricky part is planning, not studying. CKS needs an active CKA, and all five must be valid at the same time. So I built a plan around that:
+[LAST EXAM] was the last one, and it closed out the set after [TIME].
 
-1️⃣ KCNA, 2 weeks: warm up and build the vocabulary
-2️⃣ CKA, 6 weeks: cluster admin, troubleshooting, networking, storage
-3️⃣ CKAD, 5 weeks: speed with application YAML
-4️⃣ KCSA, 2 weeks: security concepts, fresh before CKS
-5️⃣ CKS, 8 weeks: hardening, supply chain, runtime security
-6️⃣ A 3-week buffer for a retake
+The hardest part was the planning. CKS needs an active CKA, and all five must be valid at the same time. So I planned the order around that:
 
-How I'm studying:
+1️⃣ KCNA: warm up and build the vocabulary
+2️⃣ CKA: cluster admin, troubleshooting, networking, storage
+3️⃣ CKAD: speed with application YAML
+4️⃣ KCSA: security concepts, fresh before CKS
+5️⃣ CKS: hardening, supply chain, runtime security
+
+What worked for me:
 • KodeKloud courses and labs for the core learning
 • 60 practice items per exam, then two mocks each: a diagnostic one week out and a timed dress rehearsal a few days before
 • One line written for every miss: what I did, what was right, which doc page to bookmark
+• [TIP]
 
-All of it is in a repo, laid out as a short course with one module per certification:
+I put all of it in a repo, laid out as a short course with one module per certification:
 https://github.com/skommepa/Skommepalli_Kubestronaut
 
-Inside: the 6-month plan, 300 practice questions and tasks, 10 mock exams, a study method and a tracker. It's unofficial practice material, not exam dumps, so please check the CNCF curriculum for current exam details.
+Inside: the study plan, 300 practice questions and tasks, 10 mock exams, a study method and a tracker. It's unofficial practice material, not exam dumps, so please check the CNCF curriculum for current exam details.
 
-If it helps you, fork it. If you find a mistake, open an issue or a PR. I'll post my progress as I go.
+If it helps you, fork it. If you find a mistake, open an issue or a PR.
+
+Thank you to everyone who answered my questions and cheered me on along the way. 🙏
 
 Which Kubernetes certification are you working on right now?
 
@@ -66,6 +75,6 @@ Which Kubernetes certification are you working on right now?
 
 ## Posting tips
 
-- Add a screenshot of the repo README or the course table as the image.
-- Post a follow-up after each exam (result, what surprised you, one tip). Replace "in progress" with results then.
+- Add a screenshot of your Credly badges or the repo README as the image.
 - Tag @CNCF and @KodeKloud if you want them to see it.
+- Only claim "Kubestronaut" once the CNCF has confirmed it. The status is awarded after all five certifications are active.

@@ -1,6 +1,6 @@
 # Kubestronaut in 6 Months: A Short-Term Course
 
-A self-paced, hands-on course for earning all five Kubernetes certifications that make you a **Kubestronaut**: **KCNA, KCSA, CKA, CKAD and CKS**. It is built from my own journey (started 27 Oct 2026) and bundles a 6-month study plan, 300 practice questions and tasks, and 10 mock exams that you can reuse.
+A self-paced, hands-on course for earning all five Kubernetes certifications that make you a **Kubestronaut**: **KCNA, KCSA, CKA, CKAD and CKS**. It is built from my own journey and bundles a 6-month study plan, 300 practice questions and tasks, and 10 mock exams that you can reuse.
 
 > Unofficial community material. It is practice content, not real exam questions or "dumps". Always check prices, pass marks, domain weights and the exam version on the official [Linux Foundation / CNCF](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) pages and the [CNCF curriculum repo](https://github.com/cncf/curriculum) before you book.
 

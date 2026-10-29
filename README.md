@@ -42,8 +42,7 @@ Skommepalli_Kubestronaut/
 ├── docs/
 │   ├── study-plan.md             10-month schedule and program rules
 │   ├── study-method.md           weekly rhythm, mock routine, exam-day checklist
-│   ├── resources.md              courses, repos and official links
-│   └── linkedin-post.md          the story behind this repo, ready to post
+│   └── resources.md              courses, repos and official links
 └── tracker/
     └── progress-tracker.md       mock scores, exam dates, expiry dates
 ```

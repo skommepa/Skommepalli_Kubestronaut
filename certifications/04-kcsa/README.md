@@ -29,6 +29,26 @@
 
 This module doubles as the concept primer for CKS, so take notes on the tools (Trivy, Falco, Cosign, Kyverno, Gatekeeper).
 
+## Learning path
+
+**KodeKloud course**
+
+1. [Kubernetes and Cloud Native Security Associate (KCSA)](https://learn.kodekloud.com/learn/courses/kubernetes-and-cloud-native-security-associate-kcsa)
+
+**Official and public resources**
+
+- [KCSA exam page (Linux Foundation)](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) and [CNCF certification page](https://www.cncf.io/training/certification/kcsa/)
+- [Official KCSA curriculum](https://github.com/cncf/curriculum): use the KCSA PDF to check domains and weights
+- [Kubernetes security overview (the 4Cs)](https://kubernetes.io/docs/concepts/security/)
+- [Kubernetes security checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
+- [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+- [Using RBAC authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+- [Auditing](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
+- [CNCF Cloud Native Security Whitepaper (TAG Security)](https://github.com/cncf/tag-security/tree/main/community/resources/security-whitepaper)
+- [NIST SP 800-190: Application Container Security Guide](https://csrc.nist.gov/pubs/sp/800/190/final)
+- [CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes)
+- [Sigstore / Cosign docs](https://docs.sigstore.dev/), [Falco docs](https://falco.org/docs/), [Trivy docs](https://trivy.dev/), [Kyverno docs](https://kyverno.io/docs/)
+
 ## Focus list
 
 - 4Cs of cloud native security, defense in depth, least privilege, zero trust

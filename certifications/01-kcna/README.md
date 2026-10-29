@@ -34,6 +34,22 @@
 - CNCF landscape: Prometheus, OpenTelemetry, Envoy, Helm, Argo CD, Knative, KEDA
 - Observability pillars, GitOps, CI/CD, blue/green and canary
 
+## Learning path
+
+**KodeKloud courses (in this order)**
+
+1. [Kubernetes for the Absolute Beginners - Hands-on Tutorial](https://learn.kodekloud.com/learn/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial): start here if Kubernetes is new to you
+2. [Kubernetes and Cloud-Native Associate (KCNA)](https://learn.kodekloud.com/learn/courses/kubernetes-and-cloud-native-associate-kcna)
+
+**Official and public resources**
+
+- [KCNA exam page (Linux Foundation)](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-associate-kcna/) and [CNCF certification page](https://www.cncf.io/training/certification/kcna/)
+- [Official KCNA curriculum](https://github.com/cncf/curriculum): use the KCNA PDF to check domains and weights
+- [Introduction to Kubernetes (free course, Linux Foundation)](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+- [Kubernetes concepts](https://kubernetes.io/docs/concepts/) and [Kubernetes basics tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [CNCF Cloud Native Landscape](https://landscape.cncf.io/) and the [CNCF project maturity levels](https://www.cncf.io/projects/)
+- [Prometheus docs](https://prometheus.io/docs/), [OpenTelemetry docs](https://opentelemetry.io/docs/), [Helm docs](https://helm.sh/docs/), [Argo CD docs](https://argo-cd.readthedocs.io/)
+
 ## Files
 
 - [practice-questions.md](practice-questions.md): 60 questions with answer key and explanations

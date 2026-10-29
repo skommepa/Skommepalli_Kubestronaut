@@ -36,6 +36,28 @@ Follow the weekly rhythm in [study-method.md](../../docs/study-method.md). A sug
 | 7 | Troubleshooting (nodes, control plane, networking) |
 | 8 | Timed mocks, review every miss |
 
+## Learning path
+
+**KodeKloud courses (in this order)**
+
+1. [Certified Kubernetes Administrator (CKA)](https://learn.kodekloud.com/learn/courses/cka-certification-course-certified-kubernetes-administrator)
+2. [Ultimate CKA Mock Exam Series](https://learn.kodekloud.com/learn/courses/ultimate-certified-kubernetes-administrator-cka-mock-exam-series)
+
+**Official and public resources**
+
+- [CKA exam page (Linux Foundation)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) and [CNCF certification page](https://www.cncf.io/training/certification/cka/)
+- [Official CKA curriculum](https://github.com/cncf/curriculum): use the CKA PDF to check domains and weights
+- [Exam tips for CKA and CKAD (Linux Foundation)](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad)
+- [kubectl quick reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+- [Upgrading kubeadm clusters](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
+- [Operating etcd clusters (backup and restore)](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/)
+- [Using RBAC authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+- [Scheduling: taints, tolerations and affinity](https://kubernetes.io/docs/concepts/scheduling-eviction/)
+- [Services, load balancing and networking](https://kubernetes.io/docs/concepts/services-networking/), [Gateway API](https://gateway-api.sigs.k8s.io/)
+- [Storage: volumes, PV, PVC, StorageClass](https://kubernetes.io/docs/concepts/storage/)
+- [Troubleshooting clusters](https://kubernetes.io/docs/tasks/debug/)
+- [Helm docs](https://helm.sh/docs/) and [Kustomize docs](https://kubectl.docs.kubernetes.io/)
+
 ## Files
 
 - [practice-tasks.md](practice-tasks.md): 60 hands-on tasks with solutions. Run as Set A (1-20), Set B (21-40), Set C (41-60), or mix 15-18 tasks.

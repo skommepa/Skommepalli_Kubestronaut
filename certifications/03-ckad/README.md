@@ -36,6 +36,27 @@ You already know the cluster from CKA, so this module is about speed with applic
 | 21 | Timed mocks, review every miss, first exam attempt |
 | 22-24 | Retake window: review the domains you scored lowest in, then retake |
 
+## Learning path
+
+**KodeKloud courses (in this order)**
+
+1. [Certified Kubernetes Application Developer (CKAD)](https://learn.kodekloud.com/learn/courses/certified-kubernetes-application-developer-ckad)
+2. [Ultimate CKAD Mock Exam Series](https://learn.kodekloud.com/learn/courses/ultimate-certified-kubernetes-application-developer-ckad-mock-exam-series)
+
+**Official and public resources**
+
+- [CKAD exam page (Linux Foundation)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) and [CNCF certification page](https://www.cncf.io/training/certification/ckad/)
+- [Official CKAD curriculum](https://github.com/cncf/curriculum): use the CKAD PDF to check domains and weights
+- [Exam tips for CKA and CKAD (Linux Foundation)](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad)
+- [kubectl quick reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+- [Workloads: Pods, Deployments, Jobs, CronJobs](https://kubernetes.io/docs/concepts/workloads/)
+- [Configuration: ConfigMaps, Secrets, resource management](https://kubernetes.io/docs/concepts/configuration/)
+- [Configure liveness, readiness and startup probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+- [Configure a security context for a Pod or container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+- [Services, Ingress and NetworkPolicy](https://kubernetes.io/docs/concepts/services-networking/)
+- [Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+- [Helm docs](https://helm.sh/docs/) and [Kustomize docs](https://kubectl.docs.kubernetes.io/)
+
 ## Files
 
 - [practice-tasks.md](practice-tasks.md): 60 hands-on tasks with solutions
